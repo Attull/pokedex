@@ -48,7 +48,6 @@ Just follow this steps:
 </ul>
 
 
-## Contact
-You can follow me on my [Linkedin](https://www.linkedin.com/in/walter-daniel-huaynapata-aguilar-391041197/).
+
 
 
